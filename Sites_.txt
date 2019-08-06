@@ -1,0 +1,4 @@
+http://blog.dbaacademy.com.br/alwayson-failover-cluster-instance/
+
+http://www.dbbits.com.br/index.php/category/alta-disponibilidade/
+
